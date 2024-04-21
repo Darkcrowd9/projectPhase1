@@ -1,16 +1,16 @@
 body {
-    background-color: rgb(39, 37, 37) !important;
+    background-color:lightseagreen !important;
 	background-size:auto;
 }
 
 h1 {
-    color: blue;
+    color: rgb(1, 1, 10);
     text-align: center;
 	cursor: crosshair;
 }
 
 .container {
-	max-width: 800px;
+	max-width: 500px;
 	margin: 0 auto;
 	padding: 20px;
 }
