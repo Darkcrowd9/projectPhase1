@@ -56,16 +56,16 @@ button[type="submit"]:hover {
 }
 
 button[type="sort"] {
-	background-color: #33c5c3;
+	background-color: #1ef307;
 	color: rgb(0, 0, 0);
 	padding: 10px 20px;
 	border: none;
-	border-radius: 4px;
+	border-radius: 10px;
 	cursor: pointer;
 }
 
 button[type="sort"]:hover {
-	background-color: #256568;
+	background-color: #4cc445;
 	color: white;
 }
 
@@ -80,7 +80,7 @@ button[type="sort"]:hover {
 }
 
 .game-details {
-	background-color:rgb(1, 153, 218);
+	background-color:rgb(9, 6, 0);
 	padding: 20px;
 	border: 1px solid #ccc;
 	border-radius: 4px;
