@@ -6,7 +6,7 @@
 
 const form = document.querySelector('form');
 const gameDetails = document.querySelector('.game-details');
-const baseUrl = 'http://localhost:3000';
+const baseUrl = 'https://www.freetogame.com';
 
 
 form.addEventListener('submit', e => {
