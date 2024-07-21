@@ -220,19 +220,6 @@
         "freetogame_profile_url": "https://www.freetogame.com/team-fortress-2"
     },
     {
-        "id": 7,
-        "title": "Paladins",
-        "thumbnail": "https://www.freetogame.com/g/7/thumbnail.jpg",
-        "short_description": "A free-to-play online hero shooter developed and published by Hi-Rez Studios.",
-        "game_url": "https://www.freetogame.com/open/paladins",
-        "genre": "Shooter",
-        "platform": "PC (Windows)",
-        "publisher": "Hi-Rez Studios",
-        "developer": "Hi-Rez Studios",
-        "release_date": "2018-05-08",
-        "freetogame_profile_url": "https://www.freetogame.com/paladins"
-    },
-    {
         "id": 6,
         "title": "Battlefield V",
         "thumbnail": "https://www.freetogame.com/g/6/thumbnail.jpg",
